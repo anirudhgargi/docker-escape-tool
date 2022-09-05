@@ -1,5 +1,5 @@
 lib LibC
-  fun getuid : Int
+  fun getuid : UidT
 end
 
 def root?
